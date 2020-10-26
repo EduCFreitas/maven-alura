@@ -73,6 +73,12 @@
   			<groupId>org.eclipse.jetty</groupId>
   			<artifactId>jetty-maven-plugin</artifactId>
   			<version>9.4.33.v20201020</version>
+  			<configuration>
+  				<scanIntervalSeconds>10</scanIntervalSeconds>
+  				<webApp>
+  					<contextPath>/loja</contextPath>
+  				</webApp>
+  			</configuration>
 		</plugin>
       </plugins>
     </pluginManagement>
