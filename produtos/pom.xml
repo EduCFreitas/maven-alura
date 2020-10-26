@@ -43,7 +43,7 @@
   			 	<execution>
   			 		<phase>verify</phase>
   			 		<goals>
-  			 			<goal>check</goal>
+  			 			<goal>gcheck</goal>
   			 		</goals>
   			 	</execution>
   			 </executions>
