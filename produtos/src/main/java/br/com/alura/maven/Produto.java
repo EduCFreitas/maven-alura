@@ -18,4 +18,8 @@ public class Produto{
 	public double getPreco() {
 		return preco;
 	}
+
+	public double getPrecoComImposto() {
+		return this.preco * 1.1;
+	}
 }
