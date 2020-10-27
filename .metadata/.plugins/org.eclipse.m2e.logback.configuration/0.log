@@ -683,3 +683,227 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact xmlpull:xmlpu
 2020-10-26 14:52:38,491 [Worker-173: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\main\resources
 2020-10-26 14:52:38,491 [Worker-173: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-10-26 14:52:38,491 [Worker-173: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\test\resources
+2020-10-26 15:00:28,015 [Worker-180: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-10-26 15:00:28,017 [Worker-180: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 15:00:28,017 [Worker-180: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\main\resources
+2020-10-26 15:00:28,018 [Worker-180: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 15:00:28,018 [Worker-180: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\test\resources
+2020-10-26 15:04:26,624 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-10-26 15:04:41,929 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 15:04:41,929 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\main\resources
+2020-10-26 15:04:41,931 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 15:04:41,932 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\test\resources
+2020-10-26 15:17:27,470 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 15:17:27,570 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\main\resources
+2020-10-26 15:17:27,572 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 15:17:27,572 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\test\resources
+2020-10-26 15:18:23,142 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-10-26 15:18:32,171 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 15:18:32,172 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\main\resources
+2020-10-26 15:18:32,174 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 15:18:32,174 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\test\resources
+2020-10-26 15:32:51,782 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-10-26 15:33:18,438 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 15:33:18,439 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\main\resources
+2020-10-26 15:33:18,442 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 15:33:18,443 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\test\resources
+2020-10-26 15:36:10,745 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 15:36:10,745 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\main\resources
+2020-10-26 15:36:10,747 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 15:36:10,747 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\test\resources
+2020-10-26 15:36:33,692 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 15:36:33,692 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\main\resources
+2020-10-26 15:36:33,693 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 15:36:33,693 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\test\resources
+2020-10-26 15:37:44,831 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 15:37:44,831 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\main\resources
+2020-10-26 15:37:44,832 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 15:37:44,833 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\test\resources
+2020-10-26 15:48:39,916 [Worker-13: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.maven:lojaweb:1.0.0-SNAPSHOT @ C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\pom.xml.
+2020-10-26 15:48:40,674 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 15:48:40,675 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\main\resources
+2020-10-26 15:48:40,676 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 15:48:40,676 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\test\resources
+2020-10-26 15:48:40,676 [Worker-13: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of lojaweb
+2020-10-26 15:48:40,677 [Worker-13: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for lojaweb
+2020-10-26 15:48:40,681 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 15:48:42,826 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 15:48:42,827 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\main\resources
+2020-10-26 15:48:42,827 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 15:48:42,827 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\test\resources
+2020-10-26 15:49:41,280 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 15:49:41,280 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\main\resources
+2020-10-26 15:49:41,281 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 15:49:41,281 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\test\resources
+2020-10-26 15:52:41,722 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 15:52:41,722 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\main\resources
+2020-10-26 15:52:41,723 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 15:52:41,723 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\test\resources
+2020-10-26 15:55:04,290 [Worker-35: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.maven:lojaweb:1.0.0-SNAPSHOT @ C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\pom.xml.
+2020-10-26 15:55:04,682 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 15:55:04,682 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\main\resources
+2020-10-26 15:55:04,685 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 15:55:04,686 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\test\resources
+2020-10-26 15:55:04,686 [Worker-35: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of lojaweb
+2020-10-26 15:55:04,686 [Worker-35: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for lojaweb
+2020-10-26 15:55:04,691 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 17:31:53,815 [Worker-71: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.maven:lojaweb:1.0.0-SNAPSHOT @ C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\pom.xml.
+2020-10-26 17:31:55,482 [Worker-71: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/br/com/caelum/stella/caelum-stella-core/2.1.4/caelum-stella-core-2.1.4.pom
+2020-10-26 17:31:55,485 [Worker-78: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/br/com/caelum/stella/caelum-stella-core/2.1.4/caelum-stella-core-2.1.4.pom
+2020-10-26 17:31:55,831 [Worker-71: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/br/com/caelum/stella/caelum-stella-core/2.1.4/caelum-stella-core-2.1.4.pom
+2020-10-26 17:31:55,833 [Worker-78: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/br/com/caelum/stella/caelum-stella-core/2.1.4/caelum-stella-core-2.1.4.pom
+2020-10-26 17:31:55,976 [Worker-71: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/br/com/caelum/stella/caelum-stella/2.1.4/caelum-stella-2.1.4.pom
+2020-10-26 17:31:56,030 [Worker-78: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/br/com/caelum/stella/caelum-stella/2.1.4/caelum-stella-2.1.4.pom
+2020-10-26 17:31:56,267 [Worker-71: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/br/com/caelum/stella/caelum-stella/2.1.4/caelum-stella-2.1.4.pom
+2020-10-26 17:31:56,293 [Worker-78: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/br/com/caelum/stella/caelum-stella/2.1.4/caelum-stella-2.1.4.pom
+2020-10-26 17:31:56,445 [Worker-71: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/br/com/caelum/stella/caelum-stella-core/2.1.4/caelum-stella-core-2.1.4.jar
+2020-10-26 17:31:56,451 [Worker-78: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/br/com/caelum/stella/caelum-stella-core/2.1.4/caelum-stella-core-2.1.4.jar
+2020-10-26 17:31:56,917 [Worker-71: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/br/com/caelum/stella/caelum-stella-core/2.1.4/caelum-stella-core-2.1.4.jar
+2020-10-26 17:31:56,957 [Worker-78: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/br/com/caelum/stella/caelum-stella-core/2.1.4/caelum-stella-core-2.1.4.jar
+2020-10-26 17:31:58,355 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 17:31:58,355 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\main\resources
+2020-10-26 17:31:58,356 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 17:31:58,357 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\test\resources
+2020-10-26 17:31:58,357 [Worker-71: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of lojaweb
+2020-10-26 17:31:58,357 [Worker-71: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for lojaweb
+2020-10-26 17:31:58,360 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 17:32:00,924 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 17:32:00,924 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\main\resources
+2020-10-26 17:32:00,926 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 17:32:00,926 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\test\resources
+2020-10-26 17:32:01,478 [Worker-71: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/br/com/caelum/stella/caelum-stella-core/2.1.4/caelum-stella-core-2.1.4-sources.jar
+2020-10-26 17:32:02,060 [Worker-71: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/br/com/caelum/stella/caelum-stella-core/2.1.4/caelum-stella-core-2.1.4-sources.jar
+2020-10-26 17:32:02,207 [Worker-71: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for br.com.caelum.stella:caelum-stella-core:2.1.4
+2020-10-26 17:32:02,988 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 17:32:02,988 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\main\resources
+2020-10-26 17:32:02,989 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 17:32:02,989 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\test\resources
+2020-10-26 17:33:03,101 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 17:33:03,101 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\main\resources
+2020-10-26 17:33:03,102 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 17:33:03,102 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\test\resources
+2020-10-26 17:33:21,055 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 17:33:21,055 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\main\resources
+2020-10-26 17:33:21,056 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 17:33:21,056 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\test\resources
+2020-10-26 17:36:40,833 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-10-26 17:36:49,581 [Worker-83: Launching lojaweb] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb
+2020-10-26 17:36:49,581 [Worker-83: Launching lojaweb] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2020-10-26 17:38:04,160 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-10-26 17:38:09,020 [Worker-81: Launching produtos] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\produtos
+2020-10-26 17:38:09,020 [Worker-81: Launching produtos] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2020-10-26 17:44:30,162 [Worker-94: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.maven:lojaweb:1.0.0-SNAPSHOT @ C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\pom.xml.
+2020-10-26 17:44:30,262 [Worker-94: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/produtos: br.com.alura.maven:produtos:1.0-SNAPSHOT with classifier  to /produtos/target/classes
+2020-10-26 17:44:30,345 [Worker-94: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/produtos: br.com.alura.maven:produtos:1.0-SNAPSHOT with classifier  to /produtos/target/classes
+2020-10-26 17:44:31,196 [Worker-94: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/produtos: br.com.alura.maven:produtos:1.0-SNAPSHOT with classifier  to /produtos/target/classes
+2020-10-26 17:44:31,397 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 17:44:31,397 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\main\resources
+2020-10-26 17:44:31,399 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 17:44:31,399 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\test\resources
+2020-10-26 17:44:31,399 [Worker-94: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of lojaweb
+2020-10-26 17:44:31,399 [Worker-94: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for lojaweb
+2020-10-26 17:44:31,402 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 17:44:31,817 [Worker-96: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/produtos: br.com.alura.maven:produtos:1.0-SNAPSHOT with classifier  to /produtos/target/classes
+2020-10-26 17:44:31,948 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 17:44:31,948 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\main\resources
+2020-10-26 17:44:31,950 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 17:44:31,950 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\test\resources
+2020-10-26 17:46:32,381 [Worker-96: Launching lojaweb] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb
+2020-10-26 17:46:32,381 [Worker-96: Launching lojaweb] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2020-10-26 17:49:53,906 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 17:49:53,906 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\main\resources
+2020-10-26 17:49:53,907 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 17:49:53,907 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\test\resources
+2020-10-26 17:50:08,573 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-10-26 17:50:25,592 [Worker-94: Launching lojaweb jetty] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb
+2020-10-26 17:50:25,592 [Worker-94: Launching lojaweb jetty] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B jetty:run
+2020-10-26 17:54:20,435 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-10-26 17:54:32,655 [Worker-94: Launching produtos install] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\produtos
+2020-10-26 17:54:32,656 [Worker-94: Launching produtos install] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-10-27 09:07:42,210 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-10-27 09:08:13,298 [Worker-5: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/produtos: br.com.alura.maven:produtos:1.0-SNAPSHOT with classifier  to /produtos/target/classes
+2020-10-27 09:08:24,033 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-27 09:08:24,033 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\main\resources
+2020-10-27 09:08:24,035 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-27 09:08:24,035 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\test\resources
+2020-10-27 09:10:22,637 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-27 09:10:22,638 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\main\resources
+2020-10-27 09:10:22,638 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-27 09:10:22,639 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\test\resources
+2020-10-27 09:10:57,026 [Worker-10: Launching lojaweb jetty] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb
+2020-10-27 09:10:57,029 [Worker-10: Launching lojaweb jetty] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B jetty:run
+2020-10-27 09:26:26,223 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.maven:lojaweb:1.0.0-SNAPSHOT @ C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\pom.xml.
+2020-10-27 09:26:26,337 [Worker-0: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/produtos: br.com.alura.maven:produtos:1.0-SNAPSHOT with classifier  to /produtos/target/classes
+2020-10-27 09:26:26,531 [Worker-0: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/produtos: br.com.alura.maven:produtos:1.0-SNAPSHOT with classifier  to /produtos/target/classes
+2020-10-27 09:26:26,859 [Worker-0: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/produtos: br.com.alura.maven:produtos:1.0-SNAPSHOT with classifier  to /produtos/target/classes
+2020-10-27 09:26:27,348 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-27 09:26:27,348 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\main\resources
+2020-10-27 09:26:27,349 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-27 09:26:27,349 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\test\resources
+2020-10-27 09:26:27,351 [Worker-0: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of lojaweb
+2020-10-27 09:26:27,351 [Worker-0: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for lojaweb
+2020-10-27 09:26:27,373 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-27 09:26:28,746 [Worker-29: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/produtos: br.com.alura.maven:produtos:1.0-SNAPSHOT with classifier  to /produtos/target/classes
+2020-10-27 09:26:28,761 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-27 09:26:28,762 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\main\resources
+2020-10-27 09:26:28,763 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-27 09:26:28,763 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\test\resources
+2020-10-27 09:29:12,394 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.maven:produtos:1.0-SNAPSHOT @ C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\produtos\pom.xml.
+2020-10-27 09:29:13,663 [Worker-0: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.1/xstream-1.4.1.pom
+2020-10-27 09:29:13,992 [Worker-0: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.1/xstream-1.4.1.pom
+2020-10-27 09:29:14,170 [Worker-0: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream-parent/1.4.1/xstream-parent-1.4.1.pom
+2020-10-27 09:29:14,383 [Worker-0: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream-parent/1.4.1/xstream-parent-1.4.1.pom
+2020-10-27 09:29:14,562 [Worker-0: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/codehaus-parent/3/codehaus-parent-3.pom
+2020-10-27 09:29:14,735 [Worker-0: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/codehaus-parent/3/codehaus-parent-3.pom
+2020-10-27 09:29:15,002 [Worker-0: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.1/xstream-1.4.1.jar
+2020-10-27 09:29:15,795 [Worker-0: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.1/xstream-1.4.1.jar
+2020-10-27 09:29:15,954 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.maven:lojaweb:1.0.0-SNAPSHOT @ C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\pom.xml.
+2020-10-27 09:29:15,964 [Worker-0: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/produtos: br.com.alura.maven:produtos:1.0-SNAPSHOT with classifier  to /produtos/target/classes
+2020-10-27 09:29:17,224 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-27 09:29:17,225 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\produtos\src\main\resources
+2020-10-27 09:29:17,227 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-27 09:29:17,228 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\produtos\src\test\resources
+2020-10-27 09:29:17,807 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/produtos: br.com.alura.maven:produtos:1.0-SNAPSHOT with classifier  to /produtos/target/classes
+2020-10-27 09:29:18,505 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.1/xstream-1.4.1-sources.jar
+2020-10-27 09:29:18,743 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-27 09:29:18,744 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\produtos\src\main\resources
+2020-10-27 09:29:18,746 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-27 09:29:18,747 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\produtos\src\test\resources
+2020-10-27 09:29:18,960 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-27 09:29:18,960 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\main\resources
+2020-10-27 09:29:18,962 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-27 09:29:18,962 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\test\resources
+2020-10-27 09:29:19,519 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.1/xstream-1.4.1-sources.jar
+2020-10-27 09:29:19,919 [Worker-35: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.thoughtworks.xstream:xstream:1.4.1
+2020-10-27 09:29:19,926 [Worker-35: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.thoughtworks.xstream:xstream:1.4.1
+2020-10-27 09:29:20,322 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-27 09:29:20,323 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\produtos\src\main\resources
+2020-10-27 09:29:20,324 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-27 09:29:20,325 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\produtos\src\test\resources
+2020-10-27 09:29:20,336 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-27 09:29:20,336 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\main\resources
+2020-10-27 09:29:20,338 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-27 09:29:20,339 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\test\resources
+2020-10-27 09:29:32,257 [Worker-37: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.maven:lojaweb:1.0.0-SNAPSHOT @ C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\pom.xml.
+2020-10-27 09:29:32,329 [Worker-37: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/produtos: br.com.alura.maven:produtos:1.0-SNAPSHOT with classifier  to /produtos/target/classes
+2020-10-27 09:29:32,458 [Worker-37: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/produtos: br.com.alura.maven:produtos:1.0-SNAPSHOT with classifier  to /produtos/target/classes
+2020-10-27 09:29:32,799 [Worker-37: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/produtos: br.com.alura.maven:produtos:1.0-SNAPSHOT with classifier  to /produtos/target/classes
+2020-10-27 09:29:32,984 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-27 09:29:32,984 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\main\resources
+2020-10-27 09:29:32,986 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-27 09:29:32,986 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\test\resources
+2020-10-27 09:29:32,986 [Worker-37: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of lojaweb
+2020-10-27 09:29:32,986 [Worker-37: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for lojaweb
+2020-10-27 09:29:33,000 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-27 09:29:34,183 [Worker-0: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/produtos: br.com.alura.maven:produtos:1.0-SNAPSHOT with classifier  to /produtos/target/classes
+2020-10-27 09:29:34,352 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-27 09:29:34,353 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\main\resources
+2020-10-27 09:29:34,354 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-27 09:29:34,354 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\test\resources
+2020-10-27 09:32:59,197 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.maven:lojaweb:1.0.0-SNAPSHOT @ C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\pom.xml.
+2020-10-27 09:32:59,255 [Worker-0: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/produtos: br.com.alura.maven:produtos:1.0-SNAPSHOT with classifier  to /produtos/target/classes
+2020-10-27 09:32:59,584 [Worker-0: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/produtos: br.com.alura.maven:produtos:1.0-SNAPSHOT with classifier  to /produtos/target/classes
+2020-10-27 09:32:59,753 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-27 09:32:59,753 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\main\resources
+2020-10-27 09:32:59,755 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-27 09:32:59,755 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jedua\Documents\Dev\Alura\Formação Spring Framework\maven-alura\lojaweb\src\test\resources
